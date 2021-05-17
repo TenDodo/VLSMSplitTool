@@ -1,0 +1,7 @@
+C:\Users\1arka\source\repos\NetworkSplitTool\NetworkSplitTool\bin\Debug\VLSMSplitTool.exe.config
+C:\Users\1arka\source\repos\NetworkSplitTool\NetworkSplitTool\bin\Debug\VLSMSplitTool.exe
+C:\Users\1arka\source\repos\NetworkSplitTool\NetworkSplitTool\bin\Debug\VLSMSplitTool.pdb
+C:\Users\1arka\source\repos\NetworkSplitTool\NetworkSplitTool\obj\Debug\VLSMSplitTool.csprojAssemblyReference.cache
+C:\Users\1arka\source\repos\NetworkSplitTool\NetworkSplitTool\obj\Debug\VLSMSplitTool.csproj.CoreCompileInputs.cache
+C:\Users\1arka\source\repos\NetworkSplitTool\NetworkSplitTool\obj\Debug\VLSMSplitTool.exe
+C:\Users\1arka\source\repos\NetworkSplitTool\NetworkSplitTool\obj\Debug\VLSMSplitTool.pdb
